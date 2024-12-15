@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter";
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section {
+    width: 650px;
+    height: 786px;
+    border: 1px solid #DEDBDB;
+    border-radius: 50px;
+    margin: 0 auto;
+    margin-top: 46px;
+}
+
+.second-container {
+    max-width: 540px;
+    margin: 0 auto;
+}
+
+.second {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 66px;
+}
+
+.back {
+    color: #F0400F;
+}
+
+.mars {
+    display: flex;
+    justify-content: center;
+    font-size: 48px;
+    color: #0E0D5D;
+    margin-top: 127px;
+}
+
+.oquvchi {
+    background-color: #FFFFFF;
+    width: 255px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 11px;
+    border-radius: 15px;
+    font-size: 28px;
+}
+
+.all {
+    width: 533px;
+    height: 70px;
+    margin-top: 40px;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.ota-ona {
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    color: #757575;
+}
+
+.first-form {
+    color: #757575B2;
+    background-color: #75757530;
+    border: 1px solid #75757530;
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 40px;
+    margin-top: 39px;
+
+}
+
+.code {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: #000000A3;
+    font-size: 24px;
+    font-weight: 500px;
+}
+
+.second-form {
+    color: #757575B2;
+    background-color: #75757530;
+    border: 1px solid #75757530;
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 40px;
+    margin-top: 39px;
+}
+
+.butt {
+    width: 202px;
+    height: 67px;
+    background-color: #F69E86;
+    border-radius: 20px;
+    border: 1px solid #F69E86;
+    margin-left: 300px;
+    margin-top: 31px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
